@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
+<Chapters>
+  <EditionEntry>
+	<ChapterAtom>
+	  <ChapterTimeStart>00:11:40.000</ChapterTimeStart>
+	  <ChapterTimeEnd>00:21:09.000</ChapterTimeEnd>
+	  <ChapterDisplay>
+		<ChapterString>Chapter_01</ChapterString>
+		<ChapterLanguage>eng</ChapterLanguage>
+	  </ChapterDisplay>
+	</ChapterAtom>
+	<ChapterAtom>
+	  <ChapterTimeStart>00:21:09.000</ChapterTimeStart>
+	  <ChapterTimeEnd>00:35:06.000</ChapterTimeEnd>
+	  <ChapterDisplay>
+		<ChapterString>Chapter_02</ChapterString>
+		<ChapterLanguage>eng</ChapterLanguage>
+	  </ChapterDisplay>
+	</ChapterAtom>
+	<ChapterAtom>
+	  <ChapterTimeStart>00:35:06.000</ChapterTimeStart>
+	  <ChapterDisplay>
+		<ChapterString>Chapter_03</ChapterString>
+		<ChapterLanguage>eng</ChapterLanguage>
+	  </ChapterDisplay>
+	</ChapterAtom>
+  </EditionEntry>
+</Chapters>
+		
