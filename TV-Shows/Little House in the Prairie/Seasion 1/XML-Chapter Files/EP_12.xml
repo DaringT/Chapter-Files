@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<Chapters>
+  <EditionEntry>
+    <ChapterAtom>
+      <ChapterTimeStart>00:14:43.000</ChapterTimeStart>
+      <ChapterTimeEnd>00:28:29.000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>Chapter 01</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:28:29.000</ChapterTimeStart>
+      <ChapterTimeEnd>00:36:59.000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>Chapter 02</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:36:59.000</ChapterTimeStart>
+      <ChapterTimeEnd>00:45:27.000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>Chapter 03</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:45:27.000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Chapter 04</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>
+
